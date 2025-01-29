@@ -1,0 +1,10 @@
+D:\333\source\repos\MightyMorphinPowerRangers\MightyMorphinPowerRangers\bin\Debug\MightyMorphinPowerRangers.exe.config
+D:\333\source\repos\MightyMorphinPowerRangers\MightyMorphinPowerRangers\bin\Debug\MightyMorphinPowerRangers.exe
+D:\333\source\repos\MightyMorphinPowerRangers\MightyMorphinPowerRangers\bin\Debug\MightyMorphinPowerRangers.pdb
+D:\333\source\repos\MightyMorphinPowerRangers\MightyMorphinPowerRangers\obj\Debug\MightyMorphinPowerRangers.csproj.AssemblyReference.cache
+D:\333\source\repos\MightyMorphinPowerRangers\MightyMorphinPowerRangers\obj\Debug\MightyMorphinPowerRangers.Form1.resources
+D:\333\source\repos\MightyMorphinPowerRangers\MightyMorphinPowerRangers\obj\Debug\MightyMorphinPowerRangers.Properties.Resources.resources
+D:\333\source\repos\MightyMorphinPowerRangers\MightyMorphinPowerRangers\obj\Debug\MightyMorphinPowerRangers.csproj.GenerateResource.cache
+D:\333\source\repos\MightyMorphinPowerRangers\MightyMorphinPowerRangers\obj\Debug\MightyMorphinPowerRangers.csproj.CoreCompileInputs.cache
+D:\333\source\repos\MightyMorphinPowerRangers\MightyMorphinPowerRangers\obj\Debug\MightyMorphinPowerRangers.exe
+D:\333\source\repos\MightyMorphinPowerRangers\MightyMorphinPowerRangers\obj\Debug\MightyMorphinPowerRangers.pdb
